@@ -1,3 +1,12 @@
+# Visual Studio Code - Icons
+This repository is to store all of the icons used in Visual Studio Code. You will find both dark and light versions of the icons.
+
+![image](https://user-images.githubusercontent.com/35271042/63130358-70df1080-bfba-11e9-8e81-07b8bc9f6836.png)
+
+# Figma
+We also have these icons available in a public Figma file that is linked to our master library. We will try to keep the icons updated as much as we can.
+
+🔗 Figma Link: [VS Code Icons — Public](https://www.figma.com/file/7wJdjbq2rKZffZqPdz6OjN/VS-Code-Icons-%E2%80%94-Public?node-id=0%3A1)
 
 # Contributing
 
