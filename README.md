@@ -27,6 +27,8 @@ If you'd like to copy this page and make modifications, you can go ahead and mak
 
 <img width="384" alt="image" src="https://user-images.githubusercontent.com/35271042/63166019-6ca00b00-c02d-11e9-9a54-59bb4119d91d.png">
 
+# Creating Issues
+If you have any suggestions or requests for new icons, please file that in the main [vscode](https://github.com/microsoft/vscode) repo. If you have any problems with the icons inside of this repo, then go ahead and create an issue here.
 
 # Contributing
 
