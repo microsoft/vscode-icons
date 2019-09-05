@@ -19,7 +19,7 @@ You can also copy the SVG code if you'd prefer by right-clicking on the icon and
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/35271042/63165566-24341d80-c02c-11e9-9e1a-df363f606f38.png">
 
-If you are creating your custom icons and want to use the same colors as our icons, simply selet a color from the color library in the right panel (we have a dark/light pairing for each one):
+If you are creating your custom icons and want to use the same colors as our icons, simply select a color from the color library in the right panel (we have a dark/light pairing for each one):
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/35271042/63165710-82610080-c02c-11e9-8caf-69003a42a68f.png">
 
