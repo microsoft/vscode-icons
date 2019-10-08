@@ -4,7 +4,7 @@ This repository is to store all of the icons used in Visual Studio Code. You wil
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/35271042/63165742-986ec100-c02c-11e9-874a-bb4f5897ac5a.png">
 
 # Icons
-| Name | Preview | Links |
+| Name | Icon | Links |
 | :--- | :---: | :---: |
 activate-breakpoints|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/activate-breakpoints.svg?sanitize=true" />|[Light](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/activate-breakpoints.svg?sanitize=true) / [Dark](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/dark/activate-breakpoints.svg?sanitize=true)|
 add|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/add.svg?sanitize=true" />|[Light](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/add.svg?sanitize=true) / [Dark](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/dark/add.svg?sanitize=true)|
