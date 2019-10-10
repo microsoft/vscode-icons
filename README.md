@@ -4,6 +4,9 @@ This repository is to store all of the icons used in Visual Studio Code. You wil
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/35271042/63165742-986ec100-c02c-11e9-874a-bb4f5897ac5a.png">
 
 # Icons
+<details>
+<summary>Preview</summary>
+  
 | Name | Icon | Links |
 | :--- | :---: | :---: |
 activate-breakpoints|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/activate-breakpoints.svg?sanitize=true" />|[Light](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/activate-breakpoints.svg) / [Dark](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/dark/activate-breakpoints.svg)|
@@ -297,6 +300,8 @@ word-wrap|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vsc
 zoom-in|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/zoom-in.svg?sanitize=true" />|[Light](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/zoom-in.svg) / [Dark](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/dark/zoom-in.svg)|
 zoom-out|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/zoom-out.svg?sanitize=true" />|[Light](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/light/zoom-out.svg) / [Dark](https://raw.githubusercontent.com/microsoft/vscode-icons/master/icons/dark/zoom-out.svg)|
 
+</details>
+  
 # Figma
 We also have these icons available in a public Figma file that is linked to our master library. We will try to keep the icons updated as much as we can.
 
