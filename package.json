@@ -1,0 +1,21 @@
+{
+  "name": "vscode-icons",
+  "version": "1.0.0",
+  "description": "This repository is to store all of the icons used in Visual Studio Code. You will find both dark and light versions of the icons.",
+  "scripts": {
+    "generate-preview": "node scripts/generate-preview.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microsoft/vscode-icons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/microsoft/vscode-icons/issues"
+  },
+  "homepage": "https://github.com/microsoft/vscode-icons#readme",
+  "devDependencies": {
+    "svgo": "^1.3.0"
+  }
+}
