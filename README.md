@@ -310,7 +310,7 @@ zoom-out|<img width="16px" src="https://raw.githubusercontent.com/microsoft/vsco
 # Figma
 We also have these icons available in a public Figma file that is linked to our master library. We will try to keep the icons updated as much as we can.
 
-👉 Figma Link: [VS Code Icons — Public](https://www.figma.com/file/7wJdjbq2rKZffZqPdz6OjN/VS-Code-Icons-%E2%80%94-Public?node-id=0%3A1)
+👉 Figma Link: [Visual Studio Code Icons](https://www.figma.com/c/file/768673354734944365)
 
 If you are new to Figma and would like to learn how to use it, check out their [getting started guide](https://help.figma.com/article/116-getting-started) or their [YouTube channel](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA) for tutorials.
 
